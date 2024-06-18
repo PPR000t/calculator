@@ -13,7 +13,7 @@ public double addition(double a, double b) {
 }
 
 public double addition(double a, double b) {
-    return a+b;
+    return b+a;
 }
 
 
